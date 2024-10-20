@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PieAreSquared11
+- 👀 I’m interested in ... Anything code involved
+- 🌱 I’m currently learning ... Python, computer science
