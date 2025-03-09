@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @PieAreSquared11
 - 👀 I’m interested in ... Anything code involved, preferably creating random but useful things in Python, making games in Godot, and more. Also like playing around with C++
-- 🌱 I’m currently learning ... Python, computer science
+- 🌱 I’m currently learning ... C#, computer science
